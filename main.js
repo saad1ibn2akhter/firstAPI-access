@@ -17,3 +17,12 @@ async function checWeather()
 }
 
 checWeather();
+
+
+
+// async function kchuekta()
+// {
+//     const response = await fetch(apiUrl + `&appid${apikey}`);
+//     var data  = await response.json();
+
+// }
